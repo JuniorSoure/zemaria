@@ -1,0 +1,25 @@
+body {
+    background-image: url(../css/BGSite.png);
+    background-size: auto;
+    font-family: Arial, Helvetica, sans-serif;
+    height: auto;
+}
+.menu {
+    background-color: #51168c;
+}
+a {
+    text-decoration: none;
+    color: white;
+}
+.menu ul {
+    display: flex;
+    justify-content: space-around;
+}
+.menu li {
+    list-style: none;
+}
+.site-title, 
+.site-subtitle {
+    color: #51168c;
+    text-align: center;
+}
